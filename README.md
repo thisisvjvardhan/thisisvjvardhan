@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisisvjvardhan
-- 👀 I’m interested in coding Java and Python
+- 👀 I’m interested in coding Python
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Git
